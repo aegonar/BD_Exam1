@@ -1,1 +1,1 @@
-Folder p1exam1 is the Maven project folder. 
+Folder Ex1_1 is the Maven project folder. 

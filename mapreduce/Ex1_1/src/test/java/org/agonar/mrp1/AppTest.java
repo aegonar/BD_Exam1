@@ -1,4 +1,4 @@
-package edu.uprm.cse.bigdata.p1exam1;
+package org.agonar.mrp1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,2 +1,6 @@
-# exam1-sp17-bigdata-desc
-This is the repo for exam1 of the Big Data Course.
+# Big Data Exam 1
+
+## Map Reduce, Hive & Spark
+
+Alejandro Gonzalez
+Fall 2018
